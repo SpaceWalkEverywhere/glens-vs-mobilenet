@@ -10,17 +10,16 @@ body{
     height: 100px;
 }
 .conc-div{
-    float: none;
-    background-color: #0ff;
     color: #fff;
     border: 0px;
     border-radius: 20px;
     height: 100px;
 }
 .imgs{
+
     margin-top: 10px;
     height: 80%;
-    width: 20%;
+    width: 90%;
 }
 .sub-div{
     margin-top: 10px;
